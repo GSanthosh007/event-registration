@@ -26,7 +26,7 @@ Publish the website in the given URL.
 ## DESIGN:
 fIGMA
 ## PROGRAM :
-html
+```html
 <div style="width: 100%; height: 100%; position: relative; background: #53B98E">
     <img style="width: 360px; height: 55px; left: 0px; top: 17px; position: absolute" src="https://via.placeholder.com/360x55" />
     <div style="width: 224px; height: 71px; left: 60px; top: 361px; position: absolute; background: #FF0000"></div>
@@ -46,6 +46,7 @@ html
     <div style="width: 305px; height: 155px; left: 30px; top: 517px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 300; word-wrap: break-word">“May this festival fill your life with sweetness!  peace prosperity, and happiness in your life!” “May happiness overflow in your life this year, good luck enter your home and success touch your feet.</div>
 </div>
 <div style="width: 100%; height: 100%; color: black; font-size: 16px; font-family: Inter; font-weight: 300; word-wrap: break-word">MOBILE NUMBER</div>
+```
 
 ## OUTPUT:
 ![](./123.png)
